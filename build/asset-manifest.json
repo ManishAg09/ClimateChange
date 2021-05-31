@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1171ac7.chunk.css",
+    "main.js": "/static/js/main.3b1afca3.chunk.js",
+    "main.js.map": "/static/js/main.3b1afca3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f3229173.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f3229173.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.e96f98d8.chunk.js": "/static/js/2.e96f98d8.chunk.js",
+    "static/js/2.e96f98d8.chunk.js.map": "/static/js/2.e96f98d8.chunk.js.map",
+    "static/js/3.598113ff.chunk.js": "/static/js/3.598113ff.chunk.js",
+    "static/js/3.598113ff.chunk.js.map": "/static/js/3.598113ff.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.b1171ac7.chunk.css.map": "/static/css/main.b1171ac7.chunk.css.map",
+    "static/js/2.e96f98d8.chunk.js.LICENSE.txt": "/static/js/2.e96f98d8.chunk.js.LICENSE.txt",
+    "static/media/Avg_air_quality.93d39d03.png": "/static/media/Avg_air_quality.93d39d03.png",
+    "static/media/Gradual_Growth.ec5b5cb1.png": "/static/media/Gradual_Growth.ec5b5cb1.png",
+    "static/media/Growth_Activities.cee61d11.png": "/static/media/Growth_Activities.cee61d11.png",
+    "static/media/Logo.bca5e7ec.jpeg": "/static/media/Logo.bca5e7ec.jpeg",
+    "static/media/Max_air_quality.dd3538fd.png": "/static/media/Max_air_quality.dd3538fd.png",
+    "static/media/Min_air_quality.a6b782c5.png": "/static/media/Min_air_quality.a6b782c5.png",
+    "static/media/Temp_distribution.2c2e73da.png": "/static/media/Temp_distribution.2c2e73da.png",
+    "static/media/Total_Emmission.25db0a3a.png": "/static/media/Total_Emmission.25db0a3a.png",
+    "static/media/pollution1.97c0929d.png": "/static/media/pollution1.97c0929d.png",
+    "static/media/pollution2.2f541d68.png": "/static/media/pollution2.2f541d68.png",
+    "static/media/pollution3.f2a7ee32.png": "/static/media/pollution3.f2a7ee32.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3229173.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.e96f98d8.chunk.js",
+    "static/css/main.b1171ac7.chunk.css",
+    "static/js/main.3b1afca3.chunk.js"
+  ]
+}

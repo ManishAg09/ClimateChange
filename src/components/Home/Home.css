@@ -1,0 +1,13 @@
+.Tilt{
+	background: linear-gradient(to right, rgb(4, 93, 92), rgb(86, 200, 55));
+}
+
+.heading{
+	background-color: #88CC88;
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
